@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Netrapal Singh</h1>
 <h3 align="center">A passionate computer science engineer from India</h3>
 <img align= "right" alt= "coding" width = "400" src ="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/uploads/2023-01/158029af-a86a-402f-a5b5-e915cc69f138.JPG">
@@ -9,6 +11,16 @@
 - 📫 How to reach me **netrapalsingh7256@gmail.com**
 
 - ⚡ Fun fact **I am not a robot**
+
+<h3 align="left">About Me:</h3>
+<p align="left">
+  <ul>
+    <li>Currently a 3rd year undergrad in JSS Academy of Technical Education Noida 🎓</li>
+     <li>I have an interest in making web applications ( backend using Python and django),ML,  games, coding  etc 🎮</li>
+      <li>    Loves to work on space and astronomy related tasks 💭</li>
+        <li> Likes to code in C++,Python and django 💻</li>  
+          
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
