@@ -1,4 +1,4 @@
-
+![logo](https://github.com/netra-tech3/netra-tech3/blob/main/logo.png)
 
 <h1 align="center">Hi 👋, I'm Netrapal Singh</h1>
 <h3 align="center">A passionate computer science engineer from India</h3>
